@@ -4,8 +4,6 @@
 
 This project implements a multi-class classification system to automatically assign product titles to appropriate categories using machine learning techniques. It is designed as part of a college-level ML course and demonstrates end-to-end development of a predictive pipeline.
 
----
-
 ## 📂 Project Structure
 
 ```
@@ -19,8 +17,6 @@ ProductClassification/
 └── environment.yml         # Conda environment file
 ```
 
----
-
 ## 📊 Dataset
 
 - **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
@@ -28,8 +24,6 @@ ProductClassification/
 - **Fields**: Product ID, Title, Merchant ID, Cluster ID, Category ID, etc.
 
 The task involves classifying each product into one of several categories such as *Mobile Phones*, *Dishwashers*, *Fridges*, and more.
-
----
 
 ## ⚙️ Features
 
@@ -40,8 +34,6 @@ The task involves classifying each product into one of several categories such a
 - Performance evaluation (accuracy, precision, recall, F1, confusion matrix)
 - Output logging and auto-reporting
 - Rich EDA visualizations
-
----
 
 ## 🚀 How to Run
 
@@ -60,8 +52,6 @@ python main.py
 
 All outputs (logs, plots, models) will be saved to `reports/` and `figures/`.
 
----
-
 ## 📘 Report
 
 A full report in PDF format is available in the `reports/` folder and includes:
@@ -72,8 +62,6 @@ A full report in PDF format is available in the `reports/` folder and includes:
 - Evaluation, visualizations, and interpretation
 - References and acknowledgements
 
----
-
 ## 📎 Acknowledgements
 
 - Data: UCI ML Repository
@@ -81,13 +69,9 @@ A full report in PDF format is available in the `reports/` folder and includes:
 - Tools: VS Code, GitHub, Conda
 - Assisted by OpenAI’s ChatGPT for debugging
 
----
-
 ## 🔗 License
 
 This project is for educational use only.
-
----
 
 ## 📬 Contact
 
